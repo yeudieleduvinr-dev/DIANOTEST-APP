@@ -1,1 +1,24 @@
-{"name":"DIAGNOTEST","short_name":"DIAGNOTEST","start_url":"./","display":"standalone","background_color":"#f4f9fc","theme_color":"#087bc1","icons":[{"src":"logo.jpg","sizes":"512x512","type":"image/jpeg","purpose":"any"}]}
+{
+  "name": "DIAGNOTEST Laboratorio de Análisis Clínicos",
+  "short_name": "DIAGNOTEST",
+  "description": "Estudios, promociones, sucursales y toma de muestra a domicilio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f8fc",
+  "theme_color": "#087bc1",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
